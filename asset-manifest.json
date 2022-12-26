@@ -1,15 +1,21 @@
 {
   "files": {
-    "main.css": "/react-41/static/css/main.7acaea2f.css",
-    "main.js": "/react-41/static/js/main.978c4430.js",
-    "static/js/787.6b7abe35.chunk.js": "/react-41/static/js/787.6b7abe35.chunk.js",
-    "index.html": "/react-41/index.html",
-    "main.7acaea2f.css.map": "/react-41/static/css/main.7acaea2f.css.map",
-    "main.978c4430.js.map": "/react-41/static/js/main.978c4430.js.map",
-    "787.6b7abe35.chunk.js.map": "/react-41/static/js/787.6b7abe35.chunk.js.map"
+    "main.css": "/react_route-practics/static/css/main.0d5b2924.css",
+    "main.js": "/react_route-practics/static/js/main.f803cdb1.js",
+    "static/js/470.e16b7a49.chunk.js": "/react_route-practics/static/js/470.e16b7a49.chunk.js",
+    "static/js/393.249c1048.chunk.js": "/react_route-practics/static/js/393.249c1048.chunk.js",
+    "static/js/11.0cd94bc7.chunk.js": "/react_route-practics/static/js/11.0cd94bc7.chunk.js",
+    "static/js/787.6027eab8.chunk.js": "/react_route-practics/static/js/787.6027eab8.chunk.js",
+    "index.html": "/react_route-practics/index.html",
+    "main.0d5b2924.css.map": "/react_route-practics/static/css/main.0d5b2924.css.map",
+    "main.f803cdb1.js.map": "/react_route-practics/static/js/main.f803cdb1.js.map",
+    "470.e16b7a49.chunk.js.map": "/react_route-practics/static/js/470.e16b7a49.chunk.js.map",
+    "393.249c1048.chunk.js.map": "/react_route-practics/static/js/393.249c1048.chunk.js.map",
+    "11.0cd94bc7.chunk.js.map": "/react_route-practics/static/js/11.0cd94bc7.chunk.js.map",
+    "787.6027eab8.chunk.js.map": "/react_route-practics/static/js/787.6027eab8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.978c4430.js"
+    "static/css/main.0d5b2924.css",
+    "static/js/main.f803cdb1.js"
   ]
 }
