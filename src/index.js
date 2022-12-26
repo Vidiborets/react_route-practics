@@ -3,10 +3,17 @@ import ReactDOM from 'react-dom';
 import { App } from 'components/App';
 import reportWebVitals from './reportWebVitals';
 import './index.css';
+import { theme } from './constans/theme';
+import { ThemeProvider } from 'styled-components';
+import { BrowserRouter } from 'react-router-dom';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <BrowserRouter basename="/react_route-practics">
+      <ThemeProvider theme={theme}>
+        <App />
+      </ThemeProvider>
+    </BrowserRouter>
   </React.StrictMode>,
   document.getElementById('root')
 );
